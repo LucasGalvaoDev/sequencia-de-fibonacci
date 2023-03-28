@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.exe
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.deps.json
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.runtimeconfig.json
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.dll
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\ref\Sequencia de Fibonacci.dll
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\bin\Debug\net5.0\Sequencia de Fibonacci.pdb
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.AssemblyInfo.cs
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.dll
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\ref\Sequencia de Fibonacci.dll
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.pdb
+C:\Users\lucas\Desktop\HelloWorld\Sequencia de Fibonacci\Sequencia de Fibonacci\obj\Debug\net5.0\Sequencia de Fibonacci.genruntimeconfig.cache
